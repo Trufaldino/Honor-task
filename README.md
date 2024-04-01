@@ -14,7 +14,7 @@ This project (mail_app) consists of several files for downloading email attachme
 
    - Create a virtual environment using `python -m venv venv`.
    - Activate the virtual environment:
-     - On Windows: `venv\Scripts\activate`
+     - On Windows: `source venv\Scripts\activate`
      - On macOS and Linux: `source venv/bin/activate`.
    - Install dependencies using `pip install -r requirements.txt`.
 
