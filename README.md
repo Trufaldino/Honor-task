@@ -1,6 +1,6 @@
-### Readme
+### mail_app 
 
-This project consists of several files for downloading email attachments and storing them in a database. Below are instructions on how to set up and run the project manually or using Docker.
+This project (mail_app) consists of several files for downloading email attachments and storing them in a database. Below are instructions on how to set up and run the project manually or using Docker.
 
 #### Files:
 
@@ -41,7 +41,7 @@ This project consists of several files for downloading email attachments and sto
 **Manual Execution:**
 
 - Make sure the virtual environment is activated `source venv/bin/activate`.
-- Run the application using `python3 main.py`.
+- Run the application using `python3 mail_app/main.py`.
 
 
 **Build the Docker Image:**
