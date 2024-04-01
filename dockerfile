@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements_docker.txt
 
 EXPOSE 80
 
-CMD ["python3", "main.py"]
+CMD ["python3", "mail_app/main.py"]
